@@ -1,0 +1,14 @@
+{
+  "name": "Franziska",
+  "age": "99",
+  "greetings": [
+    {
+      "day": "2016-01-01",
+      "greeting": "hello"
+    },
+    {
+      "day": "2016-01-02",
+      "greeting": "bonjour"
+    }
+  ]
+}
